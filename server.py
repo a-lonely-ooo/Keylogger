@@ -1,8 +1,8 @@
 import socket
 
 # Server details
-HOST = '127.0.0.1'
-PORT = 7335
+HOST = '127.0.0.1'  #replace with your original ip
+PORT = 7335   #replace with your port
 
 def main():
     # Create server socket
